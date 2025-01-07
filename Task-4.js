@@ -3,4 +3,5 @@ var b = isNaN("34");
 
 var c = isNaN(2-34);
 var d = isNaN("abb");
-console.log(a, b, c, d)
+var e = isNaN(45);
+console.log(a, b, c, d, e)
